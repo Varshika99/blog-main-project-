@@ -1,0 +1,1953 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Sarvapindi One Piece</title>
+<base href="https://savithrammas.com/site/" />
+<meta name="description" content="Sarvapindi One Piece" />
+<meta name="keywords" content="Sarvapindi One Piece" />
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+
+<link href="catalog/view/javascript/jquery/magnific/magnific-popup.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/tt_safira1/stylesheet/plaza/product/zoom.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/swiper/css/swiper.min.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/swiper/css/opencart.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/plaza/cloudzoom/css/cloud-zoom.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/default/stylesheet/plaza/swatches/swatches.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/swiper/css/swiper.min.css" rel="stylesheet" type="text/css" />
+<!-- icon font -->
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/ionicons/css/ionicons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/font-linearicons/css/style.css" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet" type="text/css" />
+<!-- use for ostromi -->
+<meta name="p:domain_verify" content="af9c523dc6f95e47b843b492aa4ace0b"/>
+<!-- end icon font -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
+
+
+<link href="catalog/view/theme/tt_safira1/stylesheet/stylesheet.css" rel="stylesheet">
+<link href="catalog/view/theme/tt_safira1/stylesheet/plaza/header/header1.css" rel="stylesheet">
+<link href="catalog/view/theme/tt_safira1/stylesheet/plaza/theme.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="catalog/view/javascript/jquery/swiper/js/swiper.min.js" ></script>
+<link rel="stylesheet" media="all" href="catalog/view/theme/tt_safira1/mobel_custom/css/theme.css">
+<link rel="stylesheet" media="all" href="catalog/view/theme/tt_safira1/mobel_custom/css/linear-icons.css">
+
+<link href="catalog/view/theme/tt_safira1/stylesheet/stylesheet_custom.css" rel="stylesheet">
+
+<link href="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/jquery/datetimepicker/moment/moment.min.js"></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/moment/moment-with-locales.min.js"></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js"></script>
+ 
+  <!-- WebX CSS -->
+<style class="webxstyle" type="text/css">* #cart_count {
+  position: absolute;
+  top: 9px;
+  background: #f00;
+  line-height: 1;
+  padding: 3px 7px;
+  border-radius: 100%;
+  margin-left: -4px;
+  zoom: 0.8;
+}
+* .col-lg-2.col-sm-12.sdsde {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+* .products-container.deal_of_the_week {
+  margin-top: 2.5rem;
+}
+* .products-container.img_rounded.this_month_special {
+  margin-top: 30px;
+}
+* .products-container.trd {
+  margin: -3rem 0 0 !important;
+}
+* .product-thumb .product-item .caption h4 a {
+  font-size: 1.8rem !important;
+  color: var(--heading-color);
+  font-weight: 400;
+  text-transform: capitalize;
+  font-family: var(--main-font);
+  line-height: 1;
+}
+* #mobile_logo {
+  max-width: 160px;
+  max-height: 65px;
+}
+* * #main_logo {
+  max-width: 250px !important;
+  position: relative;
+  z-index: 2;
+  height: 110px !important;
+  position: absolute;
+  border: 3px solid #fff;
+  border-radius: 60% 60%;
+  padding: 0;
+}
+* .mega-menu-container {
+  background: #FFFFFF;
+  padding: 2.5rem 7.5rem 0.2rem 7.5rem !important;
+}
+* .block-title h2 {
+  color: #222222 !important;
+  font-size: 3.2rem !important;
+  text-transform: capitalize !important;
+  font-weight: 500 !important;
+  font-family: "Lora", serif !important;
+}
+* .tranding .product-thumb .product-item .caption {
+  padding: 1.8rem 0;
+}
+* .sma_custom .tabs-style {
+  float: right;
+  margin-top: -20px;
+}
+* .sma_custom .block-title + .pt-content {
+  clear: both;
+  padding-top: 30px;
+}
+* .sma_custom .block-title h3 {
+  float: left;
+}
+* .main-header {
+  background: url("/site/image/catalog/banners/banner_5.jpg");
+  background-size: cover;
+}
+* .mt50 {
+  margin-top: 50px;
+}
+* .mb50 {
+  margin-bottom: 50px;
+}
+* .mt64 {
+  margin-top: 64px;
+}
+* .box-image-and-content img {
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px 0px #0000006e;
+}
+* .banner__content {
+  text-shadow: 4px 1px 0px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+  background: #0000006e;
+  padding: 10px;
+  border-radius: 20px;
+}
+* .img_rounded .product-thumb .product-item .image {
+  border-radius: 100%;
+  overflow: hidden;
+  box-shadow: 2px 5px 10px 0px #0000006e;
+}
+* .tranding img.img-responsive {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 2px 5px 10px 0px #0000006e;
+}
+* img.right-imge {
+  box-shadow: 2px 5px 10px 0px #0000006e;
+  border-radius: 20px;
+}
+@media (max-width: 575.98px) {
+  * .mt64 {
+    margin-top: 10px;
+  }
+  * .mt50 {
+    margin-top: 15px;
+  }
+  * .ser .products-container {
+    margin: 0rem 0 0;
+  }
+  * .flot-img {
+    margin-top: 18px !important;
+  }
+  * .ser .products-container {
+    margin: 48px 0 0;
+  }
+  * .products-container.deal_of_the_week {
+    margin-top: 50px;
+  }
+  * .swiper-container {
+    padding-bottom: 0rem;
+  }
+  * .bgs {
+    margin-top: 42px;
+  }
+  * .right-imge {
+    margin-top: -33px;
+  }
+  * .three-box-lg {
+    padding-top: 42px;
+  }
+  * .products-container.img_rounded.this_month_special {
+    margin-top: 42px;
+  }
+  * .products-container.tabs-product {
+    margin: 31px;
+  }
+  * .row.justify-content-between {
+    margin-top: 16px;
+  }
+  * .about-counter {
+    margin-top: 15px;
+    margin-bottom: 42px;
+  }
+  * .outteame {
+    padding-top: 42px;
+  }
+  * #content .col-xs-6:nth-child(2n+1), * #content .product-items.col-xs-4:nth-child(2n+1) {
+    clear: unset !important;
+  }
+  * .mb-text-center {
+    text-align: center;
+  }
+}
+</style>
+  <!-- WebX CSS -->
+ 
+ 
+ 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ <script>
+ 
+  $(document).ready(function(){
+    AOS.init({mirror : false, once : true});
+  })
+    
+  </script>
+<script src="catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js" ></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/moment/moment.min.js" ></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/moment/moment-with-locales.min.js" ></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js" ></script>
+<script src="catalog/view/javascript/jquery/swiper/js/swiper.jquery.js" ></script>
+<script src="catalog/view/javascript/plaza/cloudzoom/cloud-zoom.1.0.2.min.js" ></script>
+<script src="catalog/view/javascript/plaza/cloudzoom/zoom.js" ></script>
+<script src="catalog/view/javascript/plaza/swatches/swatches.js" ></script>
+<script src="catalog/view/javascript/plaza/ultimatemenu/menu.js" ></script>
+<script src="catalog/view/javascript/common.js" ></script>
+
+
+
+<link href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=203" rel="canonical" />
+<link href="https://savithrammas.com/site/image/catalog/icon/logo.png" rel="icon" />
+  <!-- Quick view -->
+    <!-- General -->
+  <!-- Sticky Menu -->
+  	<script>
+	 $(document).ready(function () {	
+		var height_box_scroll = $('.scroll-fix').outerHeight(true);
+	  $(window).scroll(function () {
+		if ($(this).scrollTop() > 190) {
+			//$('.top-menu').addClass("scroll-fixed");
+			//$('body').css('padding-top',0);
+      //$('#left_panel_controler').css('top','50px');
+		} else {
+			//$('.top-menu').removeClass("scroll-fixed");
+			//$('body').css('padding-top',0);
+      //$('#left_panel_controler').css('top','unset');
+		}
+	  });
+	});
+	</script>
+    <!-- Scroll Top -->
+    <!-- Advance -->
+
+ 
+
+
+   
+  <!-- Bootstrap Js -->
+  <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" ></script>
+ 
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7638KZYH4Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7638KZYH4Q');
+</script>
+<body class="product-product-203"> 
+
+<!-- Page loader -->
+<div class="wrapper">
+
+
+
+
+<nav id="top" style="background:#ff7800">
+
+    <div class="container"> 
+    <span style="position: absolute; color: #fff; top: 5px;" class="hidden-sm hidden-xs" >From our roots to yours plate's: Savour Telangana's traditional recipes</span>
+        <div class="box-inner"> 
+            <div class="box-top text-right text-white" > 
+                 
+
+                <div id="black-studio-tinymce-3" class="footer-widget widget_black_studio_tinymce">
+
+                            
+
+                            <div class="textwidget">
+
+                                <div class="ts-social-width">
+
+                                    <a href="https://www.facebook.com/savithrammas1998" class="social-blocks" target="Facebook" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-facebook"></i></a>
+
+                                </div>
+
+                                <div class="ts-social-width">
+
+                                    <a href="https://www.instagram.com/savithrammas1998/" class="social-blocks" target="Twitter" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-instagram"></i></a>
+
+                                </div>
+
+                                <div class="ts-social-width">
+
+                                    <a href="https://www.youtube.com/channel/UCf_HenTJ-lqtuTvSsf2iLaQ" class="social-blocks" target="Youtube" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-youtube-play"></i></a>
+
+                                </div>
+
+                                <div class="ts-social-width">
+
+                                    <a href="#" class="social-blocks" target="WhatsApp" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-whatsapp"></i></a>
+
+                                    </div>
+
+                                    <!--<div class="ts-social-width">
+
+                                    <a href="#" class="social-blocks" target="Linkedin" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-linkedin"></i></a>
+
+                                    </div>
+
+                                    <div class="ts-social-width">
+
+                                    <a href="#" class="social-blocks" target="Twitter" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-twitter"></i></a>
+
+                                    </div>-->
+
+
+
+                            </div>
+
+                        </div>
+
+
+
+            </div>
+ 
+                    
+                    
+                
+        </div>
+    </div>
+</nav>
+<style> 
+ 
+</style>
+<header class="scroll-fix header_menu" style=" ">
+    <div class="container ">
+        <div class="row">
+            <div class="col-lg-2 col-sm-12">
+                                <a href="/home">
+                    <img src="https://savithrammas.com/site/image/catalog/icon/logo.png" title="" alt="" class="img-responsive" id="main_logo" /></a>  
+            </div>
+                         
+            <div class="col-lg-8 col-sm-12">
+                <div class="top-menu">
+                    <div class="col-hoz visible-lg">
+                    <style>
+    #pt-menu-1152 .pt-menu-bar {
+        background: #FFFFFF;
+        color: #000000;
+		padding: 0px 0px 0px 0px;
+    }
+    #pt-menu-1152.pt-menu-bar {
+        background: #FFFFFF;
+        color: #000000;
+    }
+    #pt-menu-1152 .ul-top-items .li-top-item .a-top-link {
+		background: #FFFFFF;
+		padding: 1.7rem 0 -2px 0;
+		color: #000000;
+        font-size: 1.5rem;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    #pt-menu-1152 .ul-top-items .li-top-item:hover .a-top-link,#pt-menu-1152 .ul-top-items .li-top-item:hover .a-top-link i, #pt-menu-1152 .ul-top-items .li-top-item.active .a-top-link{
+        color: #000000;
+        font-weight: 500;
+		background: #FFFFFF;
+    }
+    #pt-menu-1152 .mega-menu-container {
+        
+        background: #FFFFFF;
+        padding: 4.5rem 1.5rem 0.2rem 1.5rem;
+    }
+	#pt-menu-1152 .mega-menu-container .a-mega-second-link {
+		color: #222222;
+		font-size: 1.8rem;
+		text-transform: capitalize;
+		font-weight: 700;
+	}
+	#pt-menu-1152 .mega-menu-container .a-mega-second-link:hover {
+		color: #F2AF2F;
+		font-weight: 700;
+	}
+	#pt-menu-1152 .mega-menu-container .a-mega-third-link {
+		color: #777777;
+		font-size: 1.8rem;
+		text-transform: capitalize;
+		font-weight: 400;
+	}
+	#pt-menu-1152 .mega-menu-container .a-mega-third-link:hover {
+		color: #F2AF2F;
+		font-weight: 400;
+	}
+    #pt-menu-1152 .ul-second-items .li-second-items {
+        background: #FFFFFF;
+        color: #222222;
+    }
+    #pt-menu-1152 .ul-second-items .li-second-items:hover, #pt-menu-1152 .ul-second-items .li-second-items.active {
+        background: #FFFFFF;
+        color: #40A944;
+    }
+    #pt-menu-1152 .ul-second-items .li-second-items .a-second-link {
+        color: #222222;
+        font-size: 1.8rem;
+        text-transform: capitalize;
+        font-weight: 500;
+    }
+    #pt-menu-1152 .ul-second-items .li-second-items .a-second-link:hover, #pt-menu-1152 .ul-second-items .li-second-items.active .a-second-link {
+        color: #40A944;
+        font-weight: 500;
+    }
+    #pt-menu-1152 .ul-third-items .li-third-items {
+        background: #FFFFFF;
+    }
+    #pt-menu-1152 .ul-third-items .li-third-items:hover, #pt-menu-1152 .ul-third-items .li-third-items.active {
+        background: #FFFFFF;
+    }
+    #pt-menu-1152 .ul-third-items .li-third-items .a-third-link {
+        color: #777777;
+        font-size: 1.4rem;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #pt-menu-1152 .ul-third-items .li-third-items .a-third-link:hover, #pt-menu-1152 .ul-third-items .li-third-items.active .a-third-link {
+        color: #7FBB35;
+        font-weight: 400;
+    }
+</style>
+            <div class="pt-menu horizontal-menu pt-menu-bar visible-lg  " id="pt-menu-1152">
+
+            
+
+            <img src="https://savithrammas.com/site/image/catalog/icon/logo.png"   id="sticky-logo">
+                            <input type="hidden" id="menu-effect-1152" class="menu-effect" value="none" />
+                <ul class="ul-top-items">
+                                                                        <li class="li-top-item left " style="float: left">
+                                                                    <a class="a-top-link" href="/home">
+                                                                                                                            <span>HOME</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left " style="float: left">
+                                                                    <a class="a-top-link" href="/about">
+                                                                                                                            <span>ABOUT US</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left " style="float: left">
+                                                                    <a class="a-top-link" href="http://savithrammas.com/traditional-Indian-food">
+                                                                                                                            <span>PRODUCT</span>
+                                                                                                                            <i class="ion-ios-arrow-down" aria-hidden="true"></i>
+                                                                            </a>
+                                                                                                    <!-- Mega Menu -->
+                                                                            
+                                        
+                                                                                                                                    <div class="mega-menu-container sub-menu-container left " style="width: ;">
+                                                    <div class="row">
+													                                                                                                                                                                                                                                                                                                                                <div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12">
+                                                                                                                                                        <h4><a class="a-mega-second-link" href="https://savithrammas.com/indian-snacks">Snacks</a></h4>
+                                                                                                                                                    </div>
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                                                                                                                                                                                <div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12">
+                                                                                                                                                        <h4><a class="a-mega-second-link" href="https://savithrammas.com/indian-sweets">Sweets</a></h4>
+                                                                                                                                                    </div>
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                                                                                                                                                                                <div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12">
+                                                                                                                                                        <h4><a class="a-mega-second-link" href="https://savithrammas.com/indian-podulu">Podulu</a></h4>
+                                                                                                                                                    </div>
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                                                                                                                                                                                <div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12">
+                                                                                                                                                        <h4><a class="a-mega-second-link" href="https://savithrammas.com/indian-pickles">Pickles</a></h4>
+                                                                                                                                                    </div>
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                                                                                                                                                                                <div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12">
+                                                                                                                                                        <h4><a class="a-mega-second-link" href="https://savithrammas.com/indian-vadiyalu">Vadiyalu</a></h4>
+                                                                                                                                                    </div>
+                                                                    
+                                                                    
+                                                                    
+                                                                                                                                                                                                                                                                                                            													</div>
+                                                </div>
+                                                                                                                        
+                                    <!-- Flyout Menu -->
+                                                                                                </li>
+                                                                                                <li class="li-top-item left " style="float: left">
+                                                                    <a class="a-top-link" href="/blog">
+                                                                                                                            <span>BLOG </span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left " style="float: left">
+                                                                    <a class="a-top-link" href="/gallery">
+                                                                                                                            <span>GALLERY</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left " style="float: left">
+                                                                    <a class="a-top-link" href="/contact_us">
+                                                                                                                            <span>CONTACT US</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                            </ul>
+                    </div>
+    
+        
+    
+ 
+                    </div>
+
+                </div>
+                               
+            </div>
+
+            <div class="col-lg-2 col-sm-12 sdsde" >
+
+            <div class="ts-social-width">
+                <a href="http://savithrammas.com/cart" title="CART" class="social-blocks"   style="width: 32px;font-size: 16px; line-height: 32px;"> <i class="fa fa-shopping-cart"></i>  
+                <span id="cart_count">0  </span>
+                </a>
+            </div>
+
+             <div class="ts-social-width">
+                <a href="https://savithrammas.com/site/index.php?route=account/wishlist" title="WISHLIST" class="social-blocks"   style="width: 32px;font-size: 16px; line-height: 32px;"> <i class="fa fa-heart"></i> </a>
+            </div>
+
+                                
+                
+                
+                <a href="https://savithrammas.com/site/index.php?route=account/login" title="Login" class=" "    >   Sign up   </a>
+
+                                
+               
+                            
+               
+
+               
+            </div>
+
+             <div id="search-by-category">
+    <div class="dropdown-toggle search-button" data-toggle="dropdown"></div>
+	<div class="dropdown-menu search-content" >
+		<div class="search-container">
+			<div class="categories-container">
+				<div class="hover-cate">
+					<p><span class="cate-selected" data-value="0">Select a categories</span><i class="ion-ios-arrow-down"></i></p>
+					<ul class="cate-items">
+						<li class="item-cate" data-value="0">Select a categories</li>
+																					<li data-value="432" class="item-cate">Snacks</li>
+																																			<li data-value="433" class="item-cate">Podulu</li>
+																																			<li data-value="405" class="item-cate">Sweets</li>
+																																			<li data-value="434" class="item-cate">Vadiyalu</li>
+																																			<li data-value="435" class="item-cate">Pickles</li>
+																																			<li data-value="436" class="item-cate">All Product</li>
+																									</ul>
+				</div>
+			</div>
+			<input type="text" name="search" id="text-search" value="" placeholder="Search here..." class=""  />
+			<div id="sp-btn-search" class="">
+				<button type="button" id="btn-search-category" class="btn btn-default btn-lg">
+					<span class="hidden-xs">Search</span>
+				</button>
+			</div>
+			<div class="search-ajax">
+				<div class="ajax-loader-container" style="display: none;">
+					<img src="https://savithrammas.com/site/image/" alt="search-ajax" class="ajax-load-img" width="30" height="30" />
+				</div>
+				<div class="ajax-result-container">
+					<!-- Content of search results -->
+				</div>
+			</div>
+			<input type="hidden" id="ajax-search-enable" value="1" />
+		</div>
+	
+		
+	</div>
+</div>
+
+<script >
+    $(document).ready(function () {
+        var flag = false;
+        var ajax_search_enable = $('#ajax-search-enable').val();
+
+        var current_cate_value = $('ul.cate-items li.selected').data('value');
+        var current_cate_text = $('ul.cate-items li.selected').html();
+
+        $('.cate-selected').attr('data-value', current_cate_value);
+        $('.cate-selected').html(current_cate_text);
+
+        $('.hover-cate p').click(function () {
+            $( ".cate-items" ).toggle("slow");
+        });
+
+        $('.ajax-result-container').hover(
+            function() {
+                flag = true;
+            },
+            function() {
+                flag = false;
+            }
+        );
+
+        $('.hover-cate').hover(
+            function() {
+                flag = true;
+            },
+            function() {
+                flag = false;
+            }
+        );
+
+        $('#search-by-category').focusout(function() {
+            if(flag == true) {
+                $('.ajax-result-container').show();
+            } else {
+                $('.ajax-result-container').hide();
+            }
+        });
+
+        $('#search-by-category').focusin(function() {
+            $('.ajax-result-container').show();
+        });
+
+        $('#btn-search-category').click(function () {
+            var url = 'https://savithrammas.com/site/index.php?route=product/search';
+            var text_search = $('#text-search').val();
+            if(text_search) {
+                url += '&search=' + encodeURIComponent(text_search);
+            }
+
+            var category_search = $('.cate-selected').attr("data-value");
+            if(category_search) {
+                url += '&category_id=' + encodeURIComponent(category_search);
+            }
+
+            location = url;
+        });
+
+        if(ajax_search_enable == '1') {
+            $('#text-search').keyup(function(e) {
+                var text_search = $(this).val();
+                var cate_search = $('.cate-selected').attr("data-value");
+                if(text_search != null && text_search != '') {
+                    ajaxSearch(text_search, cate_search);
+                } else {
+                    $('.ajax-result-container').html('');
+                    $('.ajax-loader-container').hide();
+                }
+            });
+
+            $('ul.cate-items li.item-cate').click(function() {
+                var cate_search = $(this).data('value');
+                var text_search = $('#text-search').val();
+                $('.cate-selected').attr('data-value', cate_search);
+                $('.cate-selected').html($(this).html());
+                if(text_search != null && text_search != '') {
+                    ajaxSearch(text_search, cate_search);
+                } else {
+                    $('.ajax-result-container').html('');
+                    $('.ajax-loader-container').hide();
+                }
+                $( ".cate-items" ).hide();
+                $('#text-search').focus();
+            });
+        }
+
+        function ajaxSearch(text_search, cate_search) {
+            $.ajax({
+                url         : 'https://savithrammas.com/site/index.php?route=extension/module/ptsearch/ajaxSearch',
+                type        : 'post',
+                data        : { text_search : text_search, cate_search : cate_search },
+                beforeSend  : function () {
+                    $('.ajax-loader-container').show();
+                },
+                success     : function(json) {
+                    if(json['success'] == true) {
+                        $('.ajax-result-container').html(json['result_html']);
+                        $('.ajax-loader-container').hide();
+                    }
+                }
+            });
+        }
+
+    });
+</script>
+
+            
+        </div>
+
+
+            </div>
+     
+   
+</header> 
+
+
+
+
+<style>
+.alert-success {
+    
+    font-size: 17px;
+    font-weight: bold;
+}
+
+@media (max-width: 767px) {
+.suc_alert{
+	min-height: 100px;
+}
+}
+
+.rate {
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+}
+.rate input{
+	display: none;
+}
+.rate:not(:checked) > input { 
+    top:-9999px;
+
+}
+.rate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    color:#ccc;
+}
+.rate:not(:checked) > label:before {
+    content: '★ ';
+}
+.rate > input:checked ~ label {
+    color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #ffcc00;
+}
+
+ 
+</style>
+
+ 
+
+
+<section class="main-header">
+	<header>
+		<div class="container">
+			<h1 class="  title" >Sarvapindi </h1>
+			<ol class="breadcrumb breadcrumb-inverted">
+				<li>
+					<a href="./">
+						<span class="icon icon-home"></span>
+					</a>
+				</li>
+									<li>
+						<a href="http://savithrammas.com/home">Home</a>
+					</li>
+									<li>
+						<a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=203">Sarvapindi </a>
+					</li>
+											</ol>
+		</div>
+	</header>
+</section>
+
+<section class="product">
+	<div class="main">
+
+
+		<div id="product-product" class="container">
+			<ul class="breadcrumb"></ul>
+
+			<div class="row">
+																	<div id="content" class="col-sm-12">
+					<div class="product-details ">
+
+
+						<div class="row product-flex">
+
+							<!-- product flex is used only for mobile order -->
+							<!-- on mobile 'product-flex-info' goes bellow gallery 'product-flex-gallery' -->
+
+								<div class="col-md-5 col-sm-12 product-flex-info"> 
+								
+								<div
+									class="clearfix">
+
+									<!-- === product-title === --> 
+									<h2 class="title" data-title="Sarvapindi ">  
+									Sarvapindi 
+																					<small>Savithramma's</small>
+
+										
+																					<i class="fa fa-circle" aria-hidden="true" style="color: #0C0; font-size: 18px; border: 1px solid; padding: 4px;  "></i>
+																		</h2>
+
+							
+
+																						
+									<div
+										class="clearfix">
+
+										<!-- === price wrapper === -->
+										
+
+										<div class="prices">
+										
+																					</div>
+										<hr>
+
+										<!-- === info-box === -->
+
+										
+										<!-- === info-box === -->
+
+										
+										<!-- === info-box === -->
+
+										<div class="info-box">
+											<span>
+												<strong>Availability</strong>
+											</span>
+
+											<span>
+												<i class="fa fa-check-square-o"></i>
+												In Stock</span>
+																					</div>
+
+										<hr>
+
+										
+										<div class="info-box info-box-addto">
+											<span>
+												<strong>Wishlist</strong>
+											</span>
+											<span>
+
+												<i type="button" class="btn pull-right" title="Add to Wish List" onclick=" wishlist.add('203');">
+													<i class="fa fa-magic" aria-hidden="true"></i>
+													Add to Wish List</i>
+
+																							</span>
+										</div>
+
+										
+										<hr>
+
+										<!-- === info-box === -->
+
+										<div id="product">
+																						<div class="info-box">
+											<div class=""> 
+																																							 
+																															<div class="form-group required ">
+																	<label class="control-label" for="input-option430">Weight</label>
+																	<select name="option[430]" id="input-option430" class="form-control selectify d-none">
+																		<option value=""> --- Please Select --- </option>
+																																					<option data-aim="option[430]628" value="628">1 Piece
+																																							</option>
+																		
+																		
+																	</select>
+																	<div class="amify">
+																																				<span class="buying_option" data-target="option[430]628">
+																			<b>1 Piece</b><br>
+																																									₹50.00
+																																							</span>
+																																			</div>
+																</div>
+																																																																																																																																																																										</div>
+										</div>
+										
+										
+										<!-- === info-box === -->
+
+										
+
+
+
+
+
+								<div class="col-sm-12 product-info-details npnm">
+								<div class="">
+ 
+
+									
+
+										
+																																									<div
+												class="form-group">
+												 <label class="control-label" for="input-quantity">Quantity  </label> 
+												<div class="quantity-content">
+													<input type="text" name="quantity" value="1" size="2" id="input-quantity" class="form-control"/>
+													<input type="button" id="plus" value="" class="form-control"/>
+													<input type="button" id="minus" value="" class="form-control"/>
+												</div>
+												<input type="hidden" name="product_id" value="203"/>
+																								<div id="estimation_price"></div>
+																								<button type="button" id="button-cart" data-loading-text="Loading..." class="btn btn-primary btn-lg btn-block">Add to Cart</button>
+											
+																																	</div>
+																														</div>
+									
+									<!--  -->
+									<!-- <p class="product-tags">Tags: -->
+									<!--  -->
+									<!--  <a href="http://savithrammas.com/site/index.php?route=product/search&amp;tag=Sarvapindi One Piece">Sarvapindi One Piece</a>  -->
+									<!--  -->
+									<!--  <a href=""></a>  -->
+									<!--  </p> -->
+									<!--  --> 
+																		</div>
+							</div>
+
+
+
+
+
+
+
+
+
+
+
+
+									</div>
+									<!--/clearfix-->
+								</div>
+								<!--/product-info-wrapper-->
+							</div>
+							<!--/col-md-4-->
+
+							<!-- === product item gallery === -->
+
+							<div
+								class="col-md-7 col-sm-12 product-flex-gallery">
+
+								<!-- === add to cart === -->
+
+								
+
+								<!-- === product gallery === -->
+
+							 <div class="col-sm-12 product-image-details">
+																	<input type="hidden" id="check-use-zoom" value="1"/>
+									<input type="hidden" id="light-box-position" value="1"/>
+									<input type="hidden" id="product-identify" value="203"/>
+									<div class="lightbox-container"></div>
+																			<div class="product-zoom-image">
+																							<a href="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%201`-800x800.jpg" class="cloud-zoom main-image" id="product-cloud-zoom" style="width: 800px; height: 800px;" rel=" showTitle: false , zoomWidth:800,zoomHeight:800,  position:'inside', adjustX: 0 ">
+													<img  class="round_img" src="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%201`-800x800.jpg" title="Sarvapindi " alt="Sarvapindi "/>
+												</a>
+																					</div>
+										<div class="additional-container">
+											<div class="swiper-viewport">
+												<div class="additional-images swiper-container">
+													<div class="swiper-wrapper">
+													 	
+																												 
+																																														<div class="item swiper-slide">
+																	<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi-800x800.jpg" title="Sarvapindi " rel="useZoom: 'product-cloud-zoom', smallImage: 'https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi-800x800.jpg'" data-pos="3">
+																		<img class="round_img" src="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi-125x125.jpg" title="Sarvapindi " alt="Sarvapindi "/>
+																	</a>
+																</div>
+																																															<div class="item swiper-slide">
+																	<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%202-800x800.jpg" title="Sarvapindi " rel="useZoom: 'product-cloud-zoom', smallImage: 'https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%202-800x800.jpg'" data-pos="4">
+																		<img class="round_img" src="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%202-125x125.jpg" title="Sarvapindi " alt="Sarvapindi "/>
+																	</a>
+																</div>
+																																															<div class="item swiper-slide">
+																	<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%201`-800x800.jpg" title="Sarvapindi " rel="useZoom: 'product-cloud-zoom', smallImage: 'https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%201`-800x800.jpg'" data-pos="5">
+																		<img class="round_img" src="https://savithrammas.com/site/image/cache/catalog/products/Sarvapindi/Sarvapindi%201`-800x800.jpg" title="Sarvapindi " alt="Sarvapindi "/>
+																	</a>
+																</div>
+																																																										</div>
+												</div>
+																							</div>
+										</div>
+																	
+							</div>
+							</div>
+
+						</div>
+
+
+					 
+					</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</section>
+
+
+<div class="product-info-details-more">
+	<div class="container">
+		<div class="inner">
+			<ul class="nav nav-tabs">
+				<li class="active">
+					<a href="#tab-description" data-toggle="tab"> Description</a>
+				</li>
+				<li >
+					<a href="#tab-ingredient" data-toggle="tab"> Ingredients</a>
+				</li>
+													<li>
+						<a href="#tab-review" data-toggle="tab">Reviews (0)</a>
+					</li>
+							</ul>
+			<div class="tab-content" style="background: none; box-sizing: unset; border: 0; padding: 0; margin: 20px 0px; }">
+				<div class="tab-pane active" id="tab-description"><section>
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <h1 class="text-center">Savor Tradition: Sarvapindi</h1>
+        <p>Experience the authentic taste of tradition with Savithramma's Sarvapindi. Made with love and care, this savory snack showcases the rich flavors of South Indian cuisine. Crafted from a combination of rice flour, sesame seeds, chana dal, garlic, green chilli paste, curry leaves, cumin, and sunflower oil, each bite of Sarvapindi offers a burst of flavors and textures. The rice flour base provides a soft and crumbly texture, while the aromatic blend of spices adds a delightful punch. Enjoy this delicious snack on its own or pair it with a cup of tea for a truly satisfying experience. Available in a quantity of 1 pc, Savithramma's Sarvapindi brings the taste of tradition to your doorstep.</p>
+        <p></p>
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <h1 class="text-center">Flavorful Delight: Savithramma's Sarvapindi</h1>
+        <p>Delight your taste buds with the flavorful treat of Savithramma's Sarvapindi. Made using a blend of high-quality ingredients, including rice flour, sesame seeds, chana dal, garlic, green chilli paste, curry leaves, cumin, and sunflower oil, this South Indian snack is a culinary delight. The combination of these ingredients creates a harmonious fusion of flavors, with each bite delivering a delightful crunch and an explosion of taste. Whether enjoyed as a snack on its own or served as an appetizer during gatherings, Sarvapindi is sure to leave a lasting impression. With its convenient quantity of 1 pc, you can savor the authentic taste of Savithramma's Sarvapindi anytime, anywhere.</p>
+        <p></p>
+      </div>
+    </div>
+  </section></div>
+				<div class="tab-pane " id="tab-ingredient">
+											<ul>
+													<li>Rice Flour</li>
+													<li> Sesame Seeds</li>
+													<li> Chana Dal</li>
+													<li> Garlic </li>
+													<li> Green Chilli Paste</li>
+													<li> Curry leaves</li>
+													<li> Cumin</li>
+													<li> Sunflower Oil</li>
+												</ul>
+										
+				</div>
+													<div class="tab-pane" id="tab-review">
+						<div class="row">
+							<div class="col-md-6 col-sm-12"> 
+
+							 
+							</div>
+							<div class="col-md-6 col-sm-12 ">
+							<form class="form-horizontal ind_review" id="form-review">
+							<div id="review"></div>
+							<h2>Write a review</h2>
+															<div class="form-group required">
+									<div class="col-sm-12">
+										<label class="control-label" for="input-name">Your Name</label>
+										<input type="text" name="name" value="" id="input-name" class="form-control"/>
+									</div>
+								</div>
+								<div class="form-group required">
+									<div class="col-sm-12">
+										<label class="control-label" for="input-review">Your Review</label>
+										<textarea name="text" rows="5" id="input-review" class="form-control"></textarea>
+																			</div>
+								</div>
+								<div class="form-group required">
+									<div class="col-sm-12">
+									 
+
+										 <div class="rate">
+
+										 <input type="radio" id="star1" name="rating" value="5" />
+											<label for="star1" title="text">1 star</label>
+
+											<input type="radio" id="star2" name="rating" value="4" />
+											<label for="star2" title="text">2 stars</label>
+
+
+											<input type="radio" id="star3" name="rating" value="3" />
+											<label for="star3" title="text">3 stars</label>
+											
+											<input type="radio" id="star4" name="rating" value="2" />
+											<label for="star4" title="text">4 rating</label>
+
+											<input type="radio" id="star5" name="rating" value="1" />
+											<label for="star5" title="text">5 stars</label>
+											
+											
+											
+										</div>
+																				
+										
+										
+										</div>
+								</div>
+								
+								<div class="buttons clearfix">
+									<div class="pull-right">
+										<button type="button" id="button-review" data-loading-text="Loading..." class="btn btn-primary">Continue</button>
+									</div>
+								</div>
+													</form>
+							</div>
+						</div>
+						
+					</div>
+							</div>
+		</div>
+	</div>
+</div>
+
+
+
+	<div class="container">
+		<div class="related-module button-style-2 ">
+			<div class="block-title">
+								<h3>
+					RELATED PRODUCTS
+				</h3>
+			</div>
+			<div class="pt-content">
+				<div class="swiper-viewport">
+					<div class="swiper-container related-slides">
+						<div class="swiper-wrapper">
+																					<div class="product-thumb transition swiper-slide">
+									<div class="product-item" data-aos="fade-up" data-aos-delay="0">
+																				<div class="image">
+											<a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=195"><img src="https://savithrammas.com/site/image/cache/catalog/products/Bellam%20Sunundalu/Bellam%20Sunundalu%20(%20Minapa)-370x370.jpg" alt="Sunnundalu Sugar (Biyyam) " title="Sunnundalu Sugar (Biyyam) " class="img-responsive round_img "/></a>
+											<div class="button-group">
+																							</div>
+										</div>
+										<div class="caption">
+											 	 
+												<h4><a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=195"> Sunnundalu Sugar (Biyyam) </a>
+											</h4>
+																							<p class="manufacture-product">
+													<a href="http://savithrammas.com/site/index.php?route=product/manufacturer/info&amp;manufacturer_id=11">Savithramma's</a>
+												</p>
+																																		<p class="price">
+																											₹150.00
+																																								<span class="price-tax">Ex Tax:
+															₹142.86</span>
+																									</p>
+											
+											<!--p>Sugar Bliss: Sunnundalu (Biyyam)
+        Indulge in the sugar bliss of Savithramma's Sunnundalu (Biyyam). These traditional Indian sweets are a delightful combination of rice flour, sugar, aromatic cardamom powder, and the richness of ghee. Each bit..</p-->
+											
+										</div>
+									</div>
+								</div>
+															<div class="product-thumb transition swiper-slide">
+									<div class="product-item" data-aos="fade-up" data-aos-delay="100">
+																				<div class="image">
+											<a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=198"><img src="https://savithrammas.com/site/image/cache/catalog/products/besan-laddu/Besan-Laddu1-370x370.jpg" alt="Besan Laddu " title="Besan Laddu " class="img-responsive round_img "/></a>
+											<div class="button-group">
+																							</div>
+										</div>
+										<div class="caption">
+											 	 
+												<h4><a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=198"> Besan Laddu </a>
+											</h4>
+																							<p class="manufacture-product">
+													<a href="http://savithrammas.com/site/index.php?route=product/manufacturer/info&amp;manufacturer_id=11">Savithramma's</a>
+												</p>
+																																		<p class="price">
+																											₹150.00
+																																								<span class="price-tax">Ex Tax:
+															₹142.86</span>
+																									</p>
+											
+											<!--p>Golden Bliss: Besan Laddu
+        Indulge in the golden bliss of Savithramma's Besan Laddu, a beloved Indian sweet that will melt in your mouth. Handcrafted with love and expertise, these laddus are made from the finest besan (gram flour), pure ghee..</p-->
+											
+										</div>
+									</div>
+								</div>
+															<div class="product-thumb transition swiper-slide">
+									<div class="product-item" data-aos="fade-up" data-aos-delay="200">
+																				<div class="image">
+											<a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=200"><img src="https://savithrammas.com/site/image/cache/catalog/products/Chudva/Chudva%201-370x370.jpg" alt="Chudva " title="Chudva " class="img-responsive round_img "/></a>
+											<div class="button-group">
+																							</div>
+										</div>
+										<div class="caption">
+											 	 
+												<h4><a href="http://savithrammas.com/site/index.php?route=product/product&amp;product_id=200"> Chudva </a>
+											</h4>
+																							<p class="manufacture-product">
+													<a href="http://savithrammas.com/site/index.php?route=product/manufacturer/info&amp;manufacturer_id=11">Savithramma's</a>
+												</p>
+																																		<p class="price">
+																											₹125.00
+																																								<span class="price-tax">Ex Tax:
+															₹119.05</span>
+																									</p>
+											
+											<!--p>Traditional Treat: Chudva
+        Immerse yourself in the delightful crunch and exquisite flavors of Savithramma's Chudva. Made with perfectly puffed flattened rice, crunchy roasted chana dal, and delectable ground nuts, this classic Indian snack of..</p-->
+											
+										</div>
+									</div>
+								</div>
+															<div class="product-thumb transition swiper-slide">
+									<div class="product-item" data-aos="fade-up" data-aos-delay="300">
+																				<div class="image">
+											<a href="http://savithrammas.com/Atukula-Chudva"><img src="https://savithrammas.com/site/image/cache/catalog/products/atukula-chudva/Atukula-Chudva-370x370.jpg" alt="Atukula Chudva " title="Atukula Chudva " class="img-responsive round_img "/></a>
+											<div class="button-group">
+																							</div>
+										</div>
+										<div class="caption">
+											 	 
+												<h4><a href="http://savithrammas.com/Atukula-Chudva"> Atukula Chudva </a>
+											</h4>
+																							<p class="manufacture-product">
+													<a href="http://savithrammas.com/site/index.php?route=product/manufacturer/info&amp;manufacturer_id=11">Savithramma's</a>
+												</p>
+																																		<p class="price">
+																											₹125.00
+																																								<span class="price-tax">Ex Tax:
+															₹119.05</span>
+																									</p>
+											
+											<!--p>Atukula Chudva: Flavorful Delight
+        Savor the traditional Indian taste with Savithramma's Atukula Chudva. This scrumptious snack is a delightful mix of crispy flattened rice and rich, hearty ground nuts, seasoned perfectly with red chili powde..</p-->
+											
+										</div>
+									</div>
+								</div>
+																		
+
+						</div>
+					</div>
+					<div class="swiper-pager">
+						<div class="swiper-button-next related-button-next"></div>
+						<div class="swiper-button-prev related-button-prev"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr>
+	</div>
+<script type="text/javascript">
+	$(".related-slides").swiper({
+spaceBetween: 0,
+nextButton: '.related-button-next',
+prevButton: '.related-button-prev',
+speed: 500, 
+slidesPerView: 4,
+slidesPerColumn: 1,
+autoplay: 3000,
+loop: true,
+// Responsive breakpoints
+breakpoints: {
+479: {
+slidesPerView: 2
+},
+767: {
+slidesPerView: 2
+},
+991: {
+slidesPerView: 3
+
+},
+1199: {
+slidesPerView: 3
+
+}
+}
+});
+
+$(".additional-images").swiper({
+    spaceBetween: 0,
+    nextButton: '.additional-button-next',
+    prevButton: '.additional-button-prev',
+    speed: 500, 
+    slidesPerView: 3,
+    slidesPerColumn: 1,
+    autoplay: false,
+    loop: false,
+    // Responsive breakpoints
+    breakpoints: {
+    479: {
+    slidesPerView: 3
+    },
+    767: {
+    slidesPerView: 2
+    },
+    991: {
+    slidesPerView: 3
+    
+    },
+    1199: {
+    slidesPerView: 3
+    
+    }
+    }
+    });
+
+
+	
+</script>
+<script
+	type="text/javascript">
+	<!--
+	$('select[name=\'recurring_id\'], input[name="quantity"]').change(function () {
+$.ajax({
+url: 'index.php?route=product/product/getRecurringDescription',
+type: 'post',
+data: $('input[name=\'product_id\'], input[name=\'quantity\'], select[name=\'recurring_id\']'),
+dataType: 'json',
+beforeSend: function () {
+$('#recurring-description').html('');
+},
+success: function (json) {
+$('.alert-dismissible, .text-danger').remove();
+
+if (json['success']) {
+$('#recurring-description').html(json['success']);
+}
+}
+});
+});
+//--></script>
+<script
+	type="text/javascript">
+	<!--
+	$('#button-cart').on('click', function () {
+$.ajax({
+url: 'index.php?route=checkout/cart/add',
+type: 'post',
+data: $('#product input[type=\'text\'], #product input[type=\'hidden\'], #product input[type=\'radio\']:checked, #product input[type=\'checkbox\']:checked, #product select, #product textarea'),
+dataType: 'json',
+beforeSend: function () {
+$('#button-cart').button('loading');
+},
+complete: function () {
+$('#button-cart').button('reset');
+},
+success: function (json) {
+	$('#cart_count').text(json.cart_count)
+$('.alert-dismissible, .text-danger').remove();
+$('.form-group').removeClass('has-error');
+
+if (json['error']) {
+if (json['error']['option']) {
+for (i in json['error']['option']) {
+var element = $('#input-option' + i.replace('_', '-'));
+
+if (element.parent().hasClass('input-group')) {
+element.parent().after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+} else {
+element.after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+}
+}
+}
+
+if (json['error']['recurring']) {
+$('select[name=\'recurring_id\']').after('<div class="text-danger">' + json['error']['recurring'] + '</div>');
+}
+
+// Highlight any found errors
+$('.text-danger').parent().addClass('has-error');
+}
+
+if (json['success']) {
+if ($('#has_addon_products').length == 0) {
+$('#content').parent().before('<div class="alert suc_alert bg-success alert-dismissible">' + json['success'] + '<a style="padding: 0px 20px;" href="/cart" class="btn btn-sm btn-success pull-right"> <i class="fa fa-cart-plus" aria-hidden="true"></i> Continue to cart <i class="fa fa-arrow-right    "></i></a>  ');
+
+
+
+$('#cart > button').html('<span id="cart-total">' + json['total'] + '</span>');
+
+$('html, body').animate({
+scrollTop: 0
+}, 'slow');
+
+$('#cart > ul').load('index.php?route=common/cart/info ul li');
+$('#cart').addClass("open");
+} else {
+$('#addon_modal').modal('show');
+}
+
+}
+},
+error: function (xhr, ajaxOptions, thrownError) {
+alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+}
+});
+});
+
+
+
+//--></script>
+
+<script
+	type="text/javascript">
+	<!--
+	$('.date').datetimepicker({language: 'en-gb', pickTime: false});
+
+$('.datetime').datetimepicker({language: 'en-gb', pickDate: true, pickTime: true});
+
+$('.time').datetimepicker({language: 'en-gb', pickDate: false});
+
+$('button[id^=\'button-upload\']').on('click', function () {
+var node = this;
+
+$('#form-upload').remove();
+
+$('body').prepend('<form enctype="multipart/form-data" id="form-upload" style="display: none;"><input type="file" name="file" /></form>');
+
+$('#form-upload input[name=\'file\']').trigger('click');
+
+if (typeof timer != 'undefined') {
+clearInterval(timer);
+}
+
+timer = setInterval(function () {
+if ($('#form-upload input[name=\'file\']').val() != '') {
+clearInterval(timer);
+
+$.ajax({
+url: 'index.php?route=tool/upload',
+type: 'post',
+dataType: 'json',
+data: new FormData($('#form-upload')[0]),
+cache: false,
+contentType: false,
+processData: false,
+beforeSend: function () {
+$(node).button('loading');
+},
+complete: function () {
+$(node).button('reset');
+},
+success: function (json) {
+$('.text-danger').remove();
+
+if (json['error']) {
+$(node).parent().find('input').after('<div class="text-danger">' + json['error'] + '</div>');
+}
+
+if (json['success']) {
+alert(json['success']);
+
+$(node).parent().find('input').val(json['code']);
+}
+},
+error: function (xhr, ajaxOptions, thrownError) {
+alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+}
+});
+}
+}, 500);
+});
+//--></script>
+<script
+	type="text/javascript">
+	<!--
+	$('#review').delegate('.pagination a', 'click', function (e) {
+e.preventDefault();
+
+$('#review').fadeOut('slow');
+
+$('#review').load(this.href);
+
+$('#review').fadeIn('slow');
+});
+
+$('#review').load('index.php?route=product/product/review&product_id= 203');
+
+$('#button-review').on('click', function () {
+$.ajax({
+url: 'index.php?route=product/product/write&product_id= 203',
+type: 'post',
+dataType: 'json',
+data: $("#form-review").serialize(),
+beforeSend: function () {
+$('#button-review').button('loading');
+},
+complete: function () {
+$('#button-review').button('reset');
+},
+success: function (json) {
+$('.alert-dismissible').remove();
+
+if (json['error']) {
+$('#review').after('<div class="alert alert-danger alert-dismissible"><i class="fa fa-exclamation-circle"></i> ' + json['error'] + '</div>');
+}
+
+if (json['success']) {
+$('#review').after('<div class="alert alert-success alert-dismissible"><i class="fa fa-check-circle"></i> ' + json['success'] + '</div>');
+
+$('input[name=\'name\']').val('');
+$('textarea[name=\'text\']').val('');
+$('input[name=\'rating\']:checked').prop('checked', false);
+}
+}
+});
+});var minimum = 1;
+$("#product-product #input-quantity").change(function () {
+if ($(this).val() < minimum) {
+alert("Minimum Quantity: " + minimum);
+$("#product-product #input-quantity").val(minimum);
+}
+});
+// increase number of product
+function minus(minimum) {
+var currentval = parseInt($("#product-product #input-quantity").val());
+$("#product-product #input-quantity").val(currentval - 1);
+if ($("#product-product #input-quantity").val() <= 0 || $("#product-product #input-quantity").val() < minimum) {
+alert("Minimum Quantity: " + minimum);
+$("#product-product #input-quantity").val(minimum);
+}
+update_price();
+};
+// decrease of product
+function plus() {
+var currentval = parseInt($("#product-product #input-quantity").val());
+$("#product-product #input-quantity").val(currentval + 1);
+update_price();
+};
+$('#product-product #minus').click(function () {
+minus(minimum);
+});
+$('#product-product #plus').click(function () {
+plus();
+});
+//--></script>
+
+<script>
+
+//input-quantity onchange update_price
+$("#input-quantity").keyup(function(){
+	update_price()
+})
+
+function update_price(){
+	return;
+	//$("#estimation_price").html('')
+	quantity = $("#input-quantity").val();
+	//ENGT =  
+	weight_per_m = 
+	price_unformated = 49.99995  
+	weight  = quantity * weight_per_m
+	estimated_price = weight * price_unformated
+
+	$html_message   = '<div class="alert alert-info alert-dismissible">'
+	$html_message  += '<button type="button" class="close" data-dismiss="alert">&times;</button>'
+	$html_message  += '<b>Estimated Price: </b> ₹ '+estimated_price.toFixed(2) +'<br>'
+	$html_message  += '<b>Weight: </b> '+weight.toFixed(2)+'Kg <br>'
+	$html_message  += '</div>'
+	$("#estimation_price").html($html_message)
+
+}
+
+
+$(document).ready(function(){ 
+	$('.buying_option').click(function(){
+		//remove all buying_option_selected class
+		$('.buying_option').removeClass('buying_option_selected')
+		$(this).toggleClass('buying_option_selected');
+		
+		 
+		$('.selectify').find('option').removeAttr('selected')	
+		$(this).attr('data-target').spl	
+		$('*[data-aim="'+$(this).attr('data-target')+'"]').attr('selected','selected')
+	})
+
+	$('.selectify').next('.amify').find('.buying_option')[0].click()
+	
+})
+
+
+</script>
+
+<style>
+
+    .img-ffd {
+        padding-bottom: 15px;
+     }
+ 
+     p.w-lg-75.text-gray {
+         margin-top: 0px;
+     }
+ 
+     .newsletter-content {
+         position: relative;
+         margin-top: 2.2rem;
+         float: left;
+         width: 35rem;
+     }
+ 
+     .newsletter-content .content {
+         position: relative;
+         display: inline-block;
+         vertical-align: top;
+         width: 75%;
+     }
+ 
+     .newsletter_email {
+         width: 100%;
+         height: 4.6rem;
+         border: 1px solid #e0e0e0;
+         padding: 0 2rem;
+         padding-right: 12rem;
+         font-size: 1.3rem;
+         color: #929292;
+         border-radius: 3rem;
+         -webkit-border-radius: 3rem;
+         background: #fff;
+     }
+ 
+     .newsletter-content .content button {
+         position: absolute;
+         right: 0;
+         top: 0;
+         font-size: 1.4rem;
+         text-transform: uppercase;
+         border-radius: 0 3rem 3rem 0;
+         text-shadow: none;
+         box-shadow: none;
+         border: 0;
+         background: var(--link-hover-color);
+         color: #fff;
+         line-height: 4.6rem;
+         padding: 0 1.5rem 0 1.3rem;
+         font-weight: 400;
+     }
+     p.fw-bold.fs-1.mb-4 {
+    font-weight: 600;
+}
+     @media (max-width: 575.98px) {
+         .img-ffd {
+ 
+             margin-top: 23px !important;
+         }
+ 
+         p.w-lg-75.text-gray {
+             margin-top: 0px;
+         }
+     }
+ </style> 
+ 
+     <div class="container mt50 mb50">
+         <div class="row justify-content-between">
+             <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+             <div class="row">
+                <div class="col-lg-4 col-md-8 col-sm-12 col-xs-12">
+                    <a href="/"><img class="img-fluid img-ffd mt-5 mb-4" style="margin: 0 auto; display: block;" src="./image/catalog/icon/footer-logo.png" alt="footer logo"></a>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <p class="w-lg-75 text-gray">Step into the world of Savithrammas, the online incarnation of Sreedevi Swagruha Foods, rooted in the rich culinary heritage of Telangana Pindi Vantakalu.</p>
+                </div>
+             </div>
+          </div>
+             <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+                 <p class="fw-bold fs-1  mb-4">QUICK LINKS</p>
+                 <ul class="list-unstyled">
+                     <li class="my-3"><a href="https://savithrammas.com/">Home</a></li>
+                     <li class="my-3"><a href="/about">About</a></li>
+                     <li class="my-3"><a href="https://savithrammas.com/site/index.php?route=product/category&amp;path=436">Product</a></li>
+                     <li class="my-3"><a href="/blog">Blogs</a></li>
+                     <li class="my-3"><a href="/contact_us">Contact Us</a></li>
+ 
+                 </ul>
+             </div>
+             <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+                 <p class="fw-bold fs-1  mb-4">Policy</p><ul class="list-unstyled">
+                     <li class="my-3"><a href="/privacy_policy">Privacy Policy</a></li>
+                     <li class="my-3"><a href="/return_policy">Returned  Policy</a></li>
+               		 <li class="my-3"><a href="/shipping_policy">Shipping Policy</a></li>
+                     <li class="my-3"><a href="/terms_and_conditions">Terms Conditions</a></li>
+                
+                 </ul>
+             </div>
+           
+             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            
+                <p class="fw-bold fs-1  mb-4 mb-text-center">Newsletter </p>
+                <p class="w-lg-75 text-gray mb-text-center">Get updates by subscribe our weekly newsletter</p>
+               <center>
+                <div class="social text-center">
+                    <ul>
+                        <div id="black-studio-tinymce-3" class="footer-widget widget_black_studio_tinymce">
+                            <div class="textwidget">
+                            
+                                <div class="ts-social-width">
+                                    <a href="https://www.instagram.com/savithrammas1998/" class="social-blocks" target="Twitter" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-instagram"></i></a>
+                                </div>
+                                <div class="ts-social-width">
+                                    <a href="https://www.youtube.com/channel/UCf_HenTJ-lqtuTvSsf2iLaQ" class="social-blocks" target="Youtube" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-youtube-play"></i></a>
+                                </div>
+                                  <div class="ts-social-width">
+                                    <a href="https://www.facebook.com/savithrammas1998" class="social-blocks" target="Facebook" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-facebook"></i></a>
+                                </div>
+                                <div class="ts-social-width">
+                                    <a href="https://api.whatsapp.com/send?phone=919000268508" class="social-blocks" target="WhatsApp" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-whatsapp"></i></a>
+                                    </div>
+
+                            </div>
+                        </div>
+                    </ul>
+                </div>
+               </center>
+             </div> <!--Forth col-end-->
+         </div> <!--row End-->
+     </div><!-- end of .container-->
+ 
+
+
+ 
+<footer>
+	<div class="footer-links d-none">  
+	  <div class="container">
+		<div class="inner ">	
+			<div class="row">
+			  <div class="col col-md-4 col-sm-12">
+				<div class="btn-group">
+										<div class="dropdown-menu footer-content">
+												
+																		<div id="footer-logos">
+						
+						</div>
+						
+					</div>
+				</div>
+			  </div>
+			  <div class="col col-md-6 col-sm-12">
+			  <style>
+
+    .img-ffd {
+        padding-bottom: 15px;
+     }
+ 
+     p.w-lg-75.text-gray {
+         margin-top: 0px;
+     }
+ 
+     .newsletter-content {
+         position: relative;
+         margin-top: 2.2rem;
+         float: left;
+         width: 35rem;
+     }
+ 
+     .newsletter-content .content {
+         position: relative;
+         display: inline-block;
+         vertical-align: top;
+         width: 75%;
+     }
+ 
+     .newsletter_email {
+         width: 100%;
+         height: 4.6rem;
+         border: 1px solid #e0e0e0;
+         padding: 0 2rem;
+         padding-right: 12rem;
+         font-size: 1.3rem;
+         color: #929292;
+         border-radius: 3rem;
+         -webkit-border-radius: 3rem;
+         background: #fff;
+     }
+ 
+     .newsletter-content .content button {
+         position: absolute;
+         right: 0;
+         top: 0;
+         font-size: 1.4rem;
+         text-transform: uppercase;
+         border-radius: 0 3rem 3rem 0;
+         text-shadow: none;
+         box-shadow: none;
+         border: 0;
+         background: var(--link-hover-color);
+         color: #fff;
+         line-height: 4.6rem;
+         padding: 0 1.5rem 0 1.3rem;
+         font-weight: 400;
+     }
+     p.fw-bold.fs-1.mb-4 {
+    font-weight: 600;
+}
+     @media (max-width: 575.98px) {
+         .img-ffd {
+ 
+             margin-top: 23px !important;
+         }
+ 
+         p.w-lg-75.text-gray {
+             margin-top: 0px;
+         }
+     }
+ </style> 
+ 
+     <div class="container mt50 mb50">
+         <div class="row justify-content-between">
+             <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+             <div class="row">
+                <div class="col-lg-4 col-md-8 col-sm-12 col-xs-12">
+                    <a href="/"><img class="img-fluid img-ffd mt-5 mb-4" style="margin: 0 auto; display: block;" src="./image/catalog/icon/footer-logo.png" alt="footer logo"></a>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                    <p class="w-lg-75 text-gray">Step into the world of Savithrammas, the online incarnation of Sreedevi Swagruha Foods, rooted in the rich culinary heritage of Telangana Pindi Vantakalu.</p>
+                </div>
+             </div>
+          </div>
+             <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+                 <p class="fw-bold fs-1  mb-4">QUICK LINKS</p>
+                 <ul class="list-unstyled">
+                     <li class="my-3"><a href="https://savithrammas.com/">Home</a></li>
+                     <li class="my-3"><a href="/about">About</a></li>
+                     <li class="my-3"><a href="https://savithrammas.com/site/index.php?route=product/category&amp;path=436">Product</a></li>
+                     <li class="my-3"><a href="/blog">Blogs</a></li>
+                     <li class="my-3"><a href="/contact_us">Contact Us</a></li>
+ 
+                 </ul>
+             </div>
+             <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+                 <p class="fw-bold fs-1  mb-4">Policy</p><ul class="list-unstyled">
+                     <li class="my-3"><a href="/privacy_policy">Privacy Policy</a></li>
+                     <li class="my-3"><a href="/return_policy">Returned  Policy</a></li>
+               		 <li class="my-3"><a href="/shipping_policy">Shipping Policy</a></li>
+                     <li class="my-3"><a href="/terms_and_conditions">Terms Conditions</a></li>
+                
+                 </ul>
+             </div>
+           
+             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            
+                <p class="fw-bold fs-1  mb-4 mb-text-center">Newsletter </p>
+                <p class="w-lg-75 text-gray mb-text-center">Get updates by subscribe our weekly newsletter</p>
+               <center>
+                <div class="social text-center">
+                    <ul>
+                        <div id="black-studio-tinymce-3" class="footer-widget widget_black_studio_tinymce">
+                            <div class="textwidget">
+                            
+                                <div class="ts-social-width">
+                                    <a href="https://www.instagram.com/savithrammas1998/" class="social-blocks" target="Twitter" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-instagram"></i></a>
+                                </div>
+                                <div class="ts-social-width">
+                                    <a href="https://www.youtube.com/channel/UCf_HenTJ-lqtuTvSsf2iLaQ" class="social-blocks" target="Youtube" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-youtube-play"></i></a>
+                                </div>
+                                  <div class="ts-social-width">
+                                    <a href="https://www.facebook.com/savithrammas1998" class="social-blocks" target="Facebook" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-facebook"></i></a>
+                                </div>
+                                <div class="ts-social-width">
+                                    <a href="https://api.whatsapp.com/send?phone=919000268508" class="social-blocks" target="WhatsApp" style="width: 32px;font-size: 16px; line-height: 32px;"><i class="fa fa-whatsapp"></i></a>
+                                    </div>
+
+                            </div>
+                        </div>
+                    </ul>
+                </div>
+               </center>
+             </div> <!--Forth col-end-->
+         </div> <!--row End-->
+     </div><!-- end of .container-->
+ 
+
+  
+			  </div>
+			 
+			  
+			   <div class="col col-md-2 col-sm-12">
+			 										  </div>
+			</div>
+		</div>
+	  </div>
+	</div>
+	<div class="footer-bottom">
+		<div class="container">
+			<div class="row">
+								
+								<div class="col-md-12 col-sm-12 text-center">
+					 
+					<span style="padding: 15px; margin-top: 14px;    color: #9e9e9e;">© Copyright 2024-2025.  Website designed and Digital marketing by 
+					<a target="_blank" style="color:#fff" href="https://harshdesigns.com"><u>Harsh Designs.</u></a></span>
+					
+									</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script>
+$(document).on('click', 'a[href^="#"]', function(e) {
+    // target element id
+    var id = $(this).attr('href');
+
+    // target element
+    var $id = $(id);
+    if ($id.length === 0) {
+        return;
+    }
+
+    // prevent standard hash navigation (avoid blinking in IE)
+    e.preventDefault();
+
+    // top position relative to the document
+    var pos = $id.offset().top - 250;
+
+    // animated top scrolling
+    $('body, html').animate({scrollTop: pos}, 1000);
+});
+
+</script>
+
+        <script src="catalog/view/theme/tt_safira1/mobel_custom/js/jquery.bootstrap.js"></script>
+    <script src="catalog/view/theme/tt_safira1/mobel_custom/js/jquery.magnific-popup.js"></script>
+    <script src="catalog/view/theme/tt_safira1/mobel_custom/js/jquery.owl.carousel.js"></script>
+    <script src="catalog/view/theme/tt_safira1/mobel_custom/js/jquery.ion.rangeSlider.js"></script>
+    <script src="catalog/view/theme/tt_safira1/mobel_custom/js/jquery.isotope.pkgd.js"></script>
+    <script src="catalog/view/theme/tt_safira1/mobel_custom/js/main.js"></script> 
+	<script src="catalog/view/javascript/plaza/slider/jquery.nivo.slider.js"></script>
+
+</div> 
